@@ -13,7 +13,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #1876F2;
+  background: #7C83FD;
   padding: 5px 5%;
   position: sticky;
   top: 0;
@@ -157,7 +157,7 @@ nav {
 }
 .sidebar-title a{
   text-decoration: none;
-  color: #1876F2;
+  color: #7C83FD;
   font-size: 12px;
   clear: both;
 }
@@ -198,14 +198,14 @@ nav {
 .event a{
   font-size: 12px;
   text-decoration: none;
-  color: #1876F2;
+  color: #7C83FD;
 }
 .left-event span {
   position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
-  background: #1876F2;
+  background: #7C83FD;
   color: white;
   font-size: 10px;
   padding: 4px 0;
@@ -259,7 +259,7 @@ nav {
   border-radius: 50%;
   top: 10px;
   left: 10px;
-  border: 5px solid #1876F2; 
+  border: 5px solid #7C83FD; 
 }
 
 .story p{
@@ -386,7 +386,7 @@ nav {
 }
 
 .post-text a{
-  color: #1876F2;
+  color: #7C83FD;
   text-decoration: none;
 }
 
@@ -471,7 +471,7 @@ nav {
 
 .user-profile a{
   font-size: 12px;
-  color: #1876F2;
+  color: #7C83FD;
   text-decoration: none;
 }
 
