@@ -20,6 +20,11 @@ nav {
   z-index: 100;
 }
 
+.fh{
+  color: white;
+  font-family:cursive;
+}
+
 .logo {
   width: 160px;
   margin-right: 45px;
